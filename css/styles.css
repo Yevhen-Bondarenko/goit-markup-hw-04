@@ -553,7 +553,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    color: var(--white-color);
+    color: #f4f4fd;
 }
 
 .footer-soc-link:hover,
